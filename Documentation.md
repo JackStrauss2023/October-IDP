@@ -1,0 +1,11 @@
+**What I accomplished:**
+
+During this Independent Driven Project, I was able to use perlin noise that gave movement to objects in a sketch. There are two main components to my project. The first component was circles that move on the screen. I created a class for the circle and updated its x and y position with perlin noise. This gave the circles realistic and smooth movement. By making a class for the circles, I was able to add circles to the screen, which makes it interactive for the user. The second component of my project was making rectangles, where their height was updated based on perlin noise. There are 5 rectangles that are drawn on the bottom of the screen. Their height values change through perlin noise. I was able to do this by making a class for the rectangle. This allowed me to have the rectangles move up and down at different heights. 
+
+**What I wished I had accomplished:**
+
+One thing I wished I had accomplished was making the rectangles fill the bottom of the screen at any width. In my project, I set the number of rectangles to 5. Before I had the rectangles fill the bottom of the screen based on the width. But, I was not able to have them move at different heights. If I had more time, I would want to figure out how to have the rectangles fill the bottom of the screen based on the width through a class. Another thing I would want to add to my project is to make the circles disappear on the screen. In my project, I can add circles, but I can not take them off the screen. 
+
+**What I learned:**
+
+In the October IDP, I learned about perlin noise and how it is used in the sketch. Perlin noise generates random values that are close to the value that was previously generated. This creates smooth and realistic movements when you use perlin noise to generate values for the x and y positions. Even though I learned about making a class last year. I was able to take what I know and learn more about them. I learned about the different features I can implement through a class.
